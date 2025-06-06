@@ -1,0 +1,30 @@
+Teclado Mecânico RGB
+Periféricos
+100
+250.0
+10
+Mouse Gamer Wireless
+Periféricos
+150
+180.5
+15
+Monitor 27 polegadas 144Hz
+Monitores
+50
+1250.0
+5
+Notebook i7 16GB SSD
+Computadores
+30
+4500.0
+3
+Headset 7.1 Surround
+Periféricos
+80
+320.0
+8
+Cadeira Gamer Reclinável
+Móveis
+25
+1350.0
+2
